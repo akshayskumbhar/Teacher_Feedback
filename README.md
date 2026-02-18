@@ -13,8 +13,6 @@ The **Teacher–Student Feedback System** is a web-based application developed t
 
 ---
 
-## 🚀 Features
-
 ### 👨‍🎓 Student Module
 - Submit feedback for teachers and courses  
 - Anonymous feedback submission  
